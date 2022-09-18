@@ -1,0 +1,7 @@
+{
+	"Kanji Lookup Shortcut":"G",
+	"Sentence Lookup Shortcut":"Ctrl+G",
+	"URL for Kanji Lookup":"https://hochanh.github.io/rtk/%s/index.html",
+	"URL for Sentence Lookup":"https://jisho.org/search/%s%%20%%23sentences",
+	"URL for Word Lookup":"http://jisho.org/search/*%s*"
+}
