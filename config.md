@@ -9,15 +9,16 @@
 ### You can also change the URLs that the add-on opens by doing the following:
 
 1. Look up something (a sentence, words, or kanji) on your favorite website
-   - e.g. looking up the [kanji details for 鉄塔 on jisho.org](https://jisho.org/search/鉄塔%20%23kanji)
+   - e.g. looking up the [kanji details for 鉄塔 on jisho.org](https://jisho.org/search/鉄塔#kanji)
 2. Copy the link
-   - e.g. copy https://jisho.org/search/鉄塔%20%23kanji
+   - e.g. copy https://jisho.org/search/鉄塔#kanji
 3. Replace the corresponding link in the configuration window to the left
 
    - Don't forget to make sure you haven't accidentally removed quotation marks or the comma that comes after (if there was one to begin with). They're important!
-   - Replacing the link that comes after "URL for Kanji Lookup" with https://jisho.org/search/鉄塔%20%23kanji
+   - Replacing the link that comes after "URL for Kanji Lookup" with https://jisho.org/search/鉄塔#kanji
      - Your computer may copy foreign characters (kana, kanji) with what looks like gibberish, but worry not! This is just sometimes how computers interpret foreign characters. We'll be replacing it in the next step!
        - e.g. `鉄塔` is represented as `%E9%89%84%E5%A1%94`.
+       - symbols like `#` may also be represented as something like`%20%23`.
        - This is called unicode for those of you interested! You can read about the representations of kana in [this article](https://memory.loc.gov/diglib/codetables/9.2.html) by the Library of Congress.
      - If this philosophically bothers you (as it did me), you can replace it in the configuration window with what you actually looked up.
 
